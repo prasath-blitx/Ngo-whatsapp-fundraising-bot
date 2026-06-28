@@ -1,4 +1,4 @@
-# 🤖 NGO WhatsApp Fundraising Bot
+#  NGO WhatsApp Fundraising Bot
 
 An automated WhatsApp messaging bot built for a real NGO to send personalized Tamil fundraising messages to donors on their special occasions.
 
